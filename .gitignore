@@ -1,0 +1,16 @@
+# Visual Studioの一時ファイルを無視
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.user
+*.suo
+
+# DxLib関連
+DxLib/
+Graph/
+Sound/
+Log.txt
